@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Accounts",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "EzPuHzGDkk2QhsqcrR-96A",
+  "Reference": "MMUdXvU4DEuFButpKC1Brw/EzPuHzGDkk2QhsqcrR-96A",
+  "ParentRef": "MMUdXvU4DEuFButpKC1Brw/7SXgYECsfESG6gZk9F-h3g",
+  "Created": "2024-01-24T14:16:22.2509048Z",
+  "Updated": "2024-01-24T14:16:22.2509048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

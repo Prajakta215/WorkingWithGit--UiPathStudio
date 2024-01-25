@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BIZodFrdxke-cH3ET1sA8w" Reference="MMUdXvU4DEuFButpKC1Brw/Cl9BtZ1LLEWYEBjPJRVR9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" DesignTimeRectangle="860, 218, 19, 20" DesignTimeScaleFactor="0.800000011920929" ElementType="Text" FriendlyName="'X'" FullSelectorArgument="&lt;webctrl parentid='openModalRefresh' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='openModalRefresh' tag='A' type='' class='close' aaname='X' check:innerText='X' /&gt;" Guid="c65ad364-9627-4cc3-873f-a09ab6ba8bc3" ScopeSelectorArgument="&lt;html app='firefox.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce480fbcf22ea3906228eca1f3e92b72.png" xmlns="">0kFG5fBJh30SpLw7lEeY1mA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

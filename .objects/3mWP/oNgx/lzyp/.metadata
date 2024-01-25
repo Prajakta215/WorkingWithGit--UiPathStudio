@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox: ACME System 1 - Log In",
+  "Type": "Screen",
+  "Id": "lzyp6Uyiek-xHODTc6JL0A",
+  "Reference": "MMUdXvU4DEuFButpKC1Brw/lzyp6Uyiek-xHODTc6JL0A",
+  "ParentRef": "MMUdXvU4DEuFButpKC1Brw/oNgx2l2SpkSdGzTTOQWfAw",
+  "Created": "2024-01-24T14:16:21.5016479Z",
+  "Updated": "2024-01-24T14:16:21.5016479Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

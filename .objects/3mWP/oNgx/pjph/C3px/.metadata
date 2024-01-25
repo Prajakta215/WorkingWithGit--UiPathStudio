@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EmployeeName",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "C3px_6NUDUqejed96DqiCA",
+  "Reference": "MMUdXvU4DEuFButpKC1Brw/C3px_6NUDUqejed96DqiCA",
+  "ParentRef": "MMUdXvU4DEuFButpKC1Brw/pjphHfpMbE-Exi5KMvaqGQ",
+  "Created": "2024-01-25T09:54:06.8785196Z",
+  "Updated": "2024-01-25T09:54:06.8785196Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

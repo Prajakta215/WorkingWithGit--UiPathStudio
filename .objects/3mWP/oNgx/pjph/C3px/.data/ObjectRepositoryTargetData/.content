@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Gfv0Lm2Xuk-_GCReH3V2WQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" DesignTimeRectangle="503, 234, 376, 16" DesignTimeScaleFactor="0.800000011920929" ElementType="Text" FriendlyName="'Carl C Carney'" FullSelectorArgument="&lt;webctrl id='candidateName' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='candidateName' tag='DIV' type='' class='' aaname='Carl C Carney' /&gt;" Guid="82ae3bcb-1112-40f1-a114-9ec68a191b55" ImageBase64="" ScopeSelectorArgument="&lt;html app='firefox.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="befc873459989a10bd07a77899b52259.png" xmlns="">0P0leeo4FVE-9j_4v5GSSvA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
